@@ -27,6 +27,33 @@ This commands includes
 <BR>
 
 ## Output
+# ARP:
+![alt text](<Screenshot 2024-11-04 142602.png>)
 
+# getmac:
+![alt text](<Screenshot 2024-11-04 142625.png>)
+
+# hostname :
+![alt text](<Screenshot 2024-11-04 142638.png>)
+
+# ipconfig:
+![alt text](<Screenshot 2024-11-04 142653.png>)
+
+# netsat :
+![alt text](<Screenshot 2024-11-04 142815.png>)
+![alt text](<Screenshot 2024-11-04 142806.png>)
+
+# nslookup:
+![alt text](<Screenshot 2024-11-04 142842.png>)
+
+# ping:
+![alt text](<Screenshot 2024-11-04 142854.png>)
+
+
+# systeminfo:
+![alt text](<Screenshot 2024-11-04 142920.png>)
+
+# tracert:
+![alt text](<Screenshot 2024-11-04 143045.png>)
 ## Result
 Thus Execution of Network commands Performed 
